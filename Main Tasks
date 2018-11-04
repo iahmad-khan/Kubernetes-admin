@@ -1,0 +1,24 @@
+
+- deamon sets
+- taint and tolerations
+- node selector
+- pods
+- pods with secrets as volume
+- pod with secret as env variable
+- static pods managed by kubelet
+- kubernetes TLS bootstraping from stratch
+- initContainers
+- readiness and liveness probes
+- deployments with replicas
+- draining node and re-schedling pods on other nodes
+- node labels
+- services
+- pods with multiple containers
+- pods with empty dir volumes as cache
+- persistent volumes with deployment
+- listing pods with label selectors
+- kube-dns , dns look for service , dns lookup for pods
+- etcd backup and restore
+- running busybox to look into other pods
+- creating namespaces and service accounts
+- roles and rolebindings
